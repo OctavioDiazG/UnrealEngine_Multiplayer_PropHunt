@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\polic\\onedrive\\documentos\\unreal projects\\bombermanu\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\polic\\onedrive\\documentos\\unreal projects\\bombermanu\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h",
+            "c:\\users\\polic\\onedrive\\documentos\\unreal projects\\bombermanu\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
