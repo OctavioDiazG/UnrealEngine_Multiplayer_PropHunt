@@ -1,10 +1,10 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\polic\\onedrive\\documentos\\unreal projects\\bombermanu\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
+        "Source": "c:\\users\\alumnos\\documents\\luis carpeta\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\source\\rd\\thirdparty\\thirdparty.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\polic\\onedrive\\documentos\\unreal projects\\bombermanu\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h"
+            "c:\\users\\alumnos\\documents\\luis carpeta\\unrealengine_multiplayer_prophunt\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rd\\definitions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
